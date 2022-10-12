@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_size">14sp</dimen>
+    <dimen name="field_padding">10dp</dimen>
+    <dimen name="field_margin">5dp</dimen>
+    <dimen name="image_max_height">100dp</dimen>
+    <dimen name="single_image_height">200dp</dimen>
+</resources>
